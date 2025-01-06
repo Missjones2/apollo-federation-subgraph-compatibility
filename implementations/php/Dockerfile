@@ -1,4 +1,4 @@
-FROM php:7.4-cli
+FROM php:8.4.2-cli
 
 # Install Composer and utilities
 

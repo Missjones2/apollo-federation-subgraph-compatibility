@@ -19,7 +19,7 @@
         <dgs.version>7.1.0</dgs.version>
         <maven-jar-plugin.version>3.3.0</maven-jar-plugin.version>
         <!-- override versions -->
-        <federation-jvm.version>3.0.1</federation-jvm.version>
+        <federation-jvm.version>5.3.0</federation-jvm.version>
     </properties>
 
     <dependencyManagement>
